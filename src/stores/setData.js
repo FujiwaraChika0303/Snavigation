@@ -10,9 +10,9 @@ const useSetDataStore = defineStore("setData", {
       backgroundType: 0,
       backgroundCustom: "",
       // 壁纸遮罩
-      showBackgroundGray: true,
+      showBackgroundGray: false,
       // 壁纸模糊
-      backgroundBlur: 0,
+      backgroundBlur: -58,
       // 搜索引擎
       searchEngine: "baidu",
       lastSearchEngine: "baidu",
