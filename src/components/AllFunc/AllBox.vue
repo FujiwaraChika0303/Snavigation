@@ -3,7 +3,9 @@
     <n-tab-pane class="no-padding" name="link" tab="捷径">
       <ShortCut />
     </n-tab-pane>
-    <n-tab-pane name="Music" tab="音乐"> 还没写 </n-tab-pane>
+    <n-tab-pane class="no-padding" name="Memo" tab="备忘录">
+      <MemoApp />
+    </n-tab-pane>
     <n-tab-pane name="more" tab="待办"> 过段时间吧 </n-tab-pane>
   </n-tabs>
 </template>
