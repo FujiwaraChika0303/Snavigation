@@ -4,7 +4,7 @@
       <ShortCut />
     </n-tab-pane>
     <n-tab-pane name="Music" tab="音乐"> 还没写 </n-tab-pane>
-    <n-tab-pane name="more" tab="待办"> 还能有啥呢 😢 </n-tab-pane>
+    <n-tab-pane name="more" tab="待办"> 过段时间吧 </n-tab-pane>
   </n-tabs>
 </template>
 
