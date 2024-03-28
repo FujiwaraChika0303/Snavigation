@@ -1,13 +1,13 @@
 [
   {
     "id": 0,
-    "name": "翻译",
-    "url": "https://www.deepl.com/zh/translator"
+    "name": "服务器状态",
+    "url": "https://status.yukinoshita.net"
   },
   {
     "id": 1,
-    "name": "地图",
-    "url": "https://ditu.amap.com/"
+    "name": "图床管理",
+    "url": "https://pichost.yukinoshita.net/"
   },
   {
     "id": 2,
